@@ -21,4 +21,3 @@ success.php – Order success page
 2. Place the project folder inside `htdocs` directory.
 3. Start Apache and MySQL.
 4. Open a browser and go to: [https](http://localhost/food_app)
-Use the website to browse food items and place an order.
