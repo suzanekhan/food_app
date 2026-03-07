@@ -1,5 +1,5 @@
 # FoodCart
-FoodCart is a simple web-based food ordering web application. it allows users to browse food items, add to cart and complete dummy payment checkout.
+FoodCart is a simple web-based food ordering web application. it allows users to browse food items, add them to cart and complete dummy payment checkout.
 
 ## Structure
 index.php – Homepage  
@@ -15,7 +15,7 @@ success.php – Order success page
 - CSS3
 - MySQL (for menu/cart items)
 - Localhost (XAMMP)
-- 
+  
 ## How to Run the Project
 1. Install XAMPP or any localhost server.
 2. Place the project folder inside `htdocs` directory.
